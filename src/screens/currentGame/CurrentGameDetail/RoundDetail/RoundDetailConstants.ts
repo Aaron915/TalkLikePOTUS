@@ -1,0 +1,1 @@
+export const horizontalCellPadding = 11

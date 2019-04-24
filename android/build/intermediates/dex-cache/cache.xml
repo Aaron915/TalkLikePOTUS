@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_53a1ee02e9a4bf288859f10684132693e4bf421b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.51.0_f271fef362bf34af06f269c6b2b9ddf0e7785daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.29.0_fea16c865391eba949d1fd0e4c5851f83c12c3da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_366f95793b499dad000ed7a2c4530d214b0c937a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a6e1802e8aee00e740be3c826c9ed09e6d9dad50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f95788f0e923006a2da51733d4cbd5c08aad299c">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.29.0_b313b64414038389dfbf450cc977fa61ff19a7b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_53f1c9339a18da30886de5cfe10ff88b123c0ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bda333443e3aace075465ebf828e336e04b527d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_366f95793b499dad000ed7a2c4530d214b0c937a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_07ee6acb22c1a88eaddc3947b400f350211ff5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_2f86ca88113b95d01370f0c7c1d67d5d5750a082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b7b15ad7bf23e0e2a54ee36ef18e8e2f8fd5caf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_53f1c9339a18da30886de5cfe10ff88b123c0ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.0.1_f747ccc24e5aa60f2c10240d4227cb1669f586d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_2f86ca88113b95d01370f0c7c1d67d5d5750a082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.0.1_eb7aa3dee1ffb01e4d714814118df7a84b59106c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0e234f764b33ce7e1b89234db21eeb229a9572ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_ac6e204096b81451a16b6147bcc2820c6582f4fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_272c29a9ee4c231a54d711eb2943d27a92973696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/TalkPresidential/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="95bac0f1cbd2d4172a3b259c43bb56fc72430305">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/TalkPresidential-react-native-fbsdk-unspecified_3d035b8270c16ea6312930f7cf322c2b7a5bae64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/core-3.3.0_bc0e13c95888591f8440691d6a15b20e079df92b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="07ca601b039863d2c018dc7f625e845084d6d18b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.29.0_90271f18a3ca42ff98ac23ce3ae313ab35a64170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_681172ca74abb8c505d4a1982351a6cb0192269f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_441c6a8f410e86053d1552dff2e24f25b4599717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a6e1802e8aee00e740be3c826c9ed09e6d9dad50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c39515e1f1c021bc13b59bf752f0e11b87b417cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_611fd8fc38045ca56d874bb560bdb29096e54b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ade109597c93e7eca4e441ae2bb366a1644ddd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.29.0_d4b17787e254340859bae731a9d6052aa47d7dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_862b778d23d27ca5a5217ac52e47794ec25966f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b6dd41ea388c1390bea00698511329d025a8c68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bda333443e3aace075465ebf828e336e04b527d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a852f2f06b40342c1511e16ac8e46a012e26f861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.0.1_9d290a73c11640ed46f77e78392efa3d62a6208e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.0.1_ccef1efdc95ed6791dee6622d72ca261d38ce749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="925879273e627f34059466359ba6789cf61889e2">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.0.1_090997a8d6e6c2573140e29c1cc532e7fba47842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b6dd41ea388c1390bea00698511329d025a8c68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_862b778d23d27ca5a5217ac52e47794ec25966f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dc98b63d89490102b0a38423e24dce190354795b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.29.0_aef5846ef06de21c0e693a3c4387879375920eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.29.0_e8ffc4f0993aa90007e69fd8a2a2a1fd085f3d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_53f1c9339a18da30886de5cfe10ff88b123c0ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bda333443e3aace075465ebf828e336e04b527d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_2f86ca88113b95d01370f0c7c1d67d5d5750a082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.1/287742f1c6cea6d9126670e9f031890b0462362a/support-annotations-27.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.0.1_38bdc5d98451d6d20c0311674300d5203bad560e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_366f95793b499dad000ed7a2c4530d214b0c937a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_681172ca74abb8c505d4a1982351a6cb0192269f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_53a1ee02e9a4bf288859f10684132693e4bf421b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c39515e1f1c021bc13b59bf752f0e11b87b417cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.0.1_3f2c8db4be4a7a5e3ebd4e0cabd56d110d19e126.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.51.0_f271fef362bf34af06f269c6b2b9ddf0e7785daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_99b9160a1ee4b4a041a909389a3c5679f6f4b4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0e234f764b33ce7e1b89234db21eeb229a9572ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a6e1802e8aee00e740be3c826c9ed09e6d9dad50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_53a1ee02e9a4bf288859f10684132693e4bf421b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_07ee6acb22c1a88eaddc3947b400f350211ff5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b7b15ad7bf23e0e2a54ee36ef18e8e2f8fd5caf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0e234f764b33ce7e1b89234db21eeb229a9572ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-27.0.1_a70cda69dfddeb8f0fca0e78eb3d57357d2e8fe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.29.0_e018b5b5894500ccada8e33417710ce490d02a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_862b778d23d27ca5a5217ac52e47794ec25966f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ade109597c93e7eca4e441ae2bb366a1644ddd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b7b15ad7bf23e0e2a54ee36ef18e8e2f8fd5caf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_07ee6acb22c1a88eaddc3947b400f350211ff5e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="7ca71e38c643e51083ab3a07f3a056bfb066caec">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-27.0.1_ae132e7941112c88cea9b3401255a13e67c8487e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_611fd8fc38045ca56d874bb560bdb29096e54b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c39515e1f1c021bc13b59bf752f0e11b87b417cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ade109597c93e7eca4e441ae2bb366a1644ddd39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_681172ca74abb8c505d4a1982351a6cb0192269f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_441c6a8f410e86053d1552dff2e24f25b4599717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.29.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.29.0_922796dfca254fc24ad09519d910548df279bca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.0.1_c8c1e46f2ea6020fc80bb8abac8874482a355aa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b6dd41ea388c1390bea00698511329d025a8c68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_611fd8fc38045ca56d874bb560bdb29096e54b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.0.1_5cae2801ee933f3e6781898e3c6106ac1170f64d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.2"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.0.1_8cab761af7d6d07d4bc7e95e120e18bd56b90000.jar" />
+    </item>
+
+</items>

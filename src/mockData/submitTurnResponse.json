@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK"
+    },
+    "response": {
+        "game": {
+            "rounds": [
+                {
+                    "_id": "5a41c8e023c67aacdb337798",
+                    "turns": [
+                        {
+                            "_id": "5a41c8e023c67aacdb337799",
+                            "user": "5a2c798e7ae8fb3758b74782",
+                            "text": "Testing fox fraudulent Testing Testing",
+                            "score": 250500,
+                            "percent": 0.75
+                        }
+                    ],
+                    "words": [
+                        "fox",
+                        "Fraudulent"
+                    ]
+                }
+            ],
+            "_id": "5a41c8e023c67aacdb337799",
+            "opponent": {
+                "_id": "5a2c7a647ae8fb3758b74783",
+                "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                "firstName": "John",
+                "lastName": "Adeagbostein"
+            }
+        }
+    }
+}

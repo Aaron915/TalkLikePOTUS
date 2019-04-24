@@ -1,0 +1,69 @@
+{
+  "_id": "5a808a0ee5e3c20014cb5019",
+  "updatedAt": 1518379143739,
+  "completed": false,
+  "declined": false,
+  "hiddenPlayer1": false,
+  "hiddenPlayer2": false,
+  "forfeitPlayer": null,
+  "rounds": [
+    {
+      "updatedAt": "2018-02-11T19:59:03.738Z",
+      "createdAt": "2018-02-11T18:23:10.365Z",
+      "_id": "5a808a0ee5e3c20014cb5018",
+      "turns": [
+        {
+          "updatedAt": "2018-02-11T19:57:31.540Z",
+          "createdAt": "2018-02-11T19:57:31.540Z",
+          "_id": "5a80a02bd84801001472a757",
+          "percent": 0.23819070865201,
+          "score": 173058,
+          "text": "Dogs and FBI",
+          "user": "5a7908134f07ff001ac60e7d"
+        },
+        {
+          "updatedAt": "2018-02-11T19:59:03.738Z",
+          "createdAt": "2018-02-11T19:59:03.738Z",
+          "_id": "5a80a087d84801001472a758",
+          "percent": 0.23817960877704,
+          "score": 173053,
+          "text": "Dogs and fbi",
+          "user": "5a792183b1eafb001a39810a"
+        }
+      ],
+      "words": [
+        "Dogs",
+        "FBI"
+      ]
+    },
+    {
+      "updatedAt": "2018-02-11T19:59:03.738Z",
+      "createdAt": "2018-02-11T19:59:03.738Z",
+      "_id": "5a80a087d84801001472a759",
+      "turns": [
+        {
+          "updatedAt": "2018-02-11T20:57:31.540Z",
+          "createdAt": "2018-02-11T20:57:31.540Z",
+          "_id": "5a80a02bd84801001472a757",
+          "percent": 0.23819070865201,
+          "score": 173058,
+          "text": "Billions of dollars and North Korea",
+          "user": "5a7908134f07ff001ac60e7d"
+        }
+      ],
+      "words": [
+        "Billions of dollars",
+        "North Korea"
+      ]
+    }
+  ],
+  "opponent": {
+    "_id": "5a792183b1eafb001a39810a",
+    "profilePicture": "[REDACTED]",
+    "firstName": "Aaron",
+    "lastName": "Williams",
+    "username": "Aaron2",
+    "pushNotificationId": "ffd5ff4eb0c4160eef65c59f8e94bd8c8b5e08aaf6a4f2efdbbeab306ebc02b9"
+  },
+  "creator": true
+}

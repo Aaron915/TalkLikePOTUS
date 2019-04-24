@@ -1,0 +1,172 @@
+{
+  "storage" : "model.espresso.weights",
+  "properties" : {
+
+  },
+  "format_version" : 200,
+  "layers" : [
+    {
+      "nB" : 7229,
+      "top" : "embedding_5_output",
+      "has_biases" : 0,
+      "weights" : {
+
+      },
+      "nC" : 40,
+      "blob_weights" : 1,
+      "is_lookup" : 1,
+      "type" : "inner_product",
+      "has_relu" : 0,
+      "bottom" : "input1",
+      "has_tanh" : 0,
+      "hint_fallback_from_metal" : 1,
+      "name" : "embedding_5",
+      "has_prelu" : 0
+    },
+    {
+      "axis_h" : 1,
+      "axis_w" : 4,
+      "axis_k" : 2,
+      "bottom" : "embedding_5_output",
+      "axis_n" : 3,
+      "axis_seq" : 0,
+      "weights" : {
+
+      },
+      "top" : "embedding_5_permute_conv1d_5_output",
+      "type" : "transpose",
+      "name" : "embedding_5_permute_conv1d_5"
+    },
+    {
+      "pad_r" : 0,
+      "fused_relu" : 1,
+      "fused_tanh" : 0,
+      "pad_fill_mode" : 0,
+      "pad_b" : 0,
+      "pad_l" : 0,
+      "top" : "conv1d_5__activation___output",
+      "blob_weights" : 5,
+      "K" : 40,
+      "blob_biases" : 3,
+      "name" : "conv1d_5",
+      "has_batch_norm" : 0,
+      "type" : "convolution",
+      "n_groups" : 1,
+      "pad_t" : 0,
+      "has_biases" : 1,
+      "C" : 30,
+      "bottom" : "embedding_5_permute_conv1d_5_output",
+      "weights" : {
+
+      },
+      "pad_mode" : 0,
+      "Nx" : 3,
+      "pad_value" : 0,
+      "Ny" : 1,
+      "n_parallel" : 1
+    },
+    {
+      "pad_value" : 0,
+      "average_count_exclude_padding" : 1,
+      "top_shape_style" : 0,
+      "avg_or_max" : 1,
+      "stride_x" : 7,
+      "pad_mode" : 2,
+      "stride_y" : 1,
+      "pad_t" : 0,
+      "weights" : {
+
+      },
+      "size_y" : 1,
+      "type" : "pool",
+      "pad_r" : 0,
+      "pad_b" : 0,
+      "size_x" : 7,
+      "pad_fill_mode" : 0,
+      "bottom" : "conv1d_5__activation___output",
+      "pad_l" : 0,
+      "name" : "max_pooling1d_5",
+      "top" : "max_pooling1d_5_output"
+    },
+    {
+      "axis_h" : 1,
+      "axis_w" : 4,
+      "axis_k" : 2,
+      "bottom" : "max_pooling1d_5_output",
+      "axis_n" : 3,
+      "axis_seq" : 0,
+      "weights" : {
+
+      },
+      "top" : "max_pooling1d_5_permute_lstm_5_output",
+      "type" : "transpose",
+      "name" : "max_pooling1d_5_permute_lstm_5"
+    },
+    {
+      "input_size" : 30,
+      "arch" : 1,
+      "hidden_size" : 15,
+      "nonlinearity_alpha" : 1,
+      "nonlinearity_bidir_type" : 0,
+      "coupled_input_forget" : 0,
+      "lstm_forget_bias" : 1,
+      "bias_vector_flag" : 1,
+      "mode" : 0,
+      "cell_clip_threshold" : 50000,
+      "type" : "rnn_arch",
+      "internal_nonlinearity_second_beta" : 1,
+      "internal_nonlinearity_alpha" : 1,
+      "internal_nonlinearity_beta" : 1,
+      "forget_bias" : 0,
+      "weights" : {
+        "W_h" : 7,
+        "W_x" : 9,
+        "b" : 11
+      },
+      "lstm_has_peepholes" : 0,
+      "beta" : 1,
+      "quantization_mode" : 0,
+      "name" : "lstm_5",
+      "top" : "lstm_5_output,lstm_5_h_out,lstm_5_c_out",
+      "alpha" : 1,
+      "max_batch_size" : 1,
+      "nonlinearity_bidir_alpha" : 1,
+      "nonlinearity_beta" : 1,
+      "internal_nonlinearity_second_alpha" : 1,
+      "encoder_bidirectional_mode" : 0,
+      "internal_nonlinearity_type" : 3,
+      "bottom" : "max_pooling1d_5_permute_lstm_5_output,lstm_5_h_in,lstm_5_c_in",
+      "nonlinearity_type" : 0,
+      "nonlinearity_bidir_beta" : 1,
+      "encoder_output_sequence" : 0,
+      "internal_nonlinearity_second_type" : 0
+    },
+    {
+      "nB" : 15,
+      "top" : "dense_5_output",
+      "has_biases" : 1,
+      "weights" : {
+
+      },
+      "nC" : 1,
+      "blob_weights" : 15,
+      "type" : "inner_product",
+      "has_relu" : 0,
+      "bottom" : "lstm_5_output",
+      "blob_biases" : 13,
+      "has_tanh" : 0,
+      "name" : "dense_5",
+      "has_prelu" : 0
+    },
+    {
+      "mode" : 3,
+      "weights" : {
+
+      },
+      "top" : "output1",
+      "type" : "activation",
+      "name" : "activation_5",
+      "bottom" : "dense_5_output"
+    }
+  ]
+}

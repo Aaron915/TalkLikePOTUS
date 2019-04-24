@@ -1,0 +1,427 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK"
+    },
+    "response": {
+        "updatedAt": 1514258237983,
+        "pageLimit": 20,
+        "pageNumber": 1,
+        "games": [
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c8e023c67aacdb337798",
+                        "turns": [
+                            {
+                                "score": 250500,
+                                "text": "Testing Testing Testing",
+                                "user": "5a2c798e7ae8fb3758b74782",
+                                "_id": "5a41c8e023c67aacdb337799"
+                            }
+                        ],
+                        "words": [
+                            "fox",
+                            "Fraudulent"
+                        ]
+                    }
+                ],
+                "_id": "5a41c8e023c67aacdb337799",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41cf0f23c67aacdb33779c",
+                        "turns": [
+                            {
+                                "score": 250500,
+                                "text": "Testing Testing Testing",
+                                "user": "5a2c798e7ae8fb3758b74782",
+                                "_id": "5a41cf0f23c67aacdb33779d"
+                            }
+                        ],
+                        "words": [
+                            "Hostile",
+                            "Republicans"
+                        ]
+                    }
+                ],
+                "_id": "5a41cf0f23c67aacdb33779d",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41ce8e23c67aacdb33779a",
+                        "turns": [],
+                        "words": [
+                            "politician",
+                            "wall"
+                        ]
+                    }
+                ],
+                "_id": "5a41ce8e23c67aacdb33779b",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c80923c67aacdb337796",
+                        "turns": [],
+                        "words": [
+                            "obstruct",
+                            "Establishment"
+                        ]
+                    }
+                ],
+                "_id": "5a41c80923c67aacdb337797",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c80523c67aacdb337794",
+                        "turns": [],
+                        "words": [
+                            "America First ‘americafirst’’",
+                            "obstruct"
+                        ]
+                    }
+                ],
+                "_id": "5a41c80523c67aacdb337795",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c77223c67aacdb337792",
+                        "turns": [],
+                        "words": [
+                            "Gdp",
+                            "politician"
+                        ]
+                    }
+                ],
+                "_id": "5a41c77223c67aacdb337793",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c76e23c67aacdb337790",
+                        "turns": [],
+                        "words": [
+                            "Lobbyist ‘lobbyists’’",
+                            "Collusion"
+                        ]
+                    }
+                ],
+                "_id": "5a41c76e23c67aacdb337791",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c72823c67aacdb33778e",
+                        "turns": [],
+                        "words": [
+                            "Nomination",
+                            "Criticized"
+                        ]
+                    }
+                ],
+                "_id": "5a41c72823c67aacdb33778f",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c70723c67aacdb33778c",
+                        "turns": [],
+                        "words": [
+                            "Leak",
+                            "Failing"
+                        ]
+                    }
+                ],
+                "_id": "5a41c70723c67aacdb33778d",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c70223c67aacdb33778a",
+                        "turns": [],
+                        "words": [
+                            "Administration",
+                            "Megynkelly “megyn kelly”"
+                        ]
+                    }
+                ],
+                "_id": "5a41c70223c67aacdb33778b",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c58923c67aacdb337788",
+                        "turns": [],
+                        "words": [
+                            "!",
+                            "Wages"
+                        ]
+                    }
+                ],
+                "_id": "5a41c58923c67aacdb337789",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c4f223c67aacdb337786",
+                        "turns": [],
+                        "words": [
+                            "pence",
+                            "nato"
+                        ]
+                    }
+                ],
+                "_id": "5a41c4f223c67aacdb337787",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c4ed23c67aacdb337784",
+                        "turns": [],
+                        "words": [
+                            "Historic",
+                            "Self funding “self-funding”"
+                        ]
+                    }
+                ],
+                "_id": "5a41c4ed23c67aacdb337785",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c3fd23c67aacdb337782",
+                        "turns": [],
+                        "words": [
+                            "Comey",
+                            "plants"
+                        ]
+                    }
+                ],
+                "_id": "5a41c3fd23c67aacdb337783",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c3c723c67aacdb337780",
+                        "turns": [],
+                        "words": [
+                            "Rubio",
+                            "negotiated"
+                        ]
+                    }
+                ],
+                "_id": "5a41c3c723c67aacdb337781",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c36723c67aacdb33777e",
+                        "turns": [],
+                        "words": [
+                            "Fake news",
+                            "Sanders"
+                        ]
+                    }
+                ],
+                "_id": "5a41c36723c67aacdb33777f",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c0a423c67aacdb33777c",
+                        "turns": [],
+                        "words": [
+                            "Schumer",
+                            "Nambia"
+                        ]
+                    }
+                ],
+                "_id": "5a41c0a423c67aacdb33777d",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c04623c67aacdb33777a",
+                        "turns": [],
+                        "words": [
+                            "boycott",
+                            "Hostile"
+                        ]
+                    }
+                ],
+                "_id": "5a41c04623c67aacdb33777b",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41c00e23c67aacdb337778",
+                        "turns": [],
+                        "words": [
+                            "Hack",
+                            "Ratings"
+                        ]
+                    }
+                ],
+                "_id": "5a41c00e23c67aacdb337779",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            },
+            {
+                "rounds": [
+                    {
+                        "_id": "5a41bf3d23c67aacdb337776",
+                        "turns": [],
+                        "words": [
+                            "Landside",
+                            "Hostile"
+                        ]
+                    }
+                ],
+                "_id": "5a41bf3d23c67aacdb337777",
+                "opponent": {
+                    "_id": "5a2c7a647ae8fb3758b74783",
+                    "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                    "firstName": "John",
+                    "lastName": "Adeagbostein"
+                },
+                "creator": true
+            }
+        ]
+    }
+}

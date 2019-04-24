@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK"
+    },
+    "response": {
+        "user": {
+            "username": "Aaron",
+            "_id": "5a18915a88731610d4f302db",
+            "updatedAt": "2017-11-24T22:13:36.041Z",
+            "createdAt": "2017-11-24T21:38:34.844Z",
+            "profilePicture": "https://graph.facebook.com/10155926051384314/picture?type=large",
+            "firstName": "Aaron",
+            "lastName": "Williams",
+            "pushNotificationId": "red1234",
+            "email": "aaronwilliams9152@gmail.com",
+            "__v": 0,
+            "games": [],
+            "tokens": [],
+            "profiles": {
+                "facebook": "10155926051384314"
+            }
+        }
+    }
+}

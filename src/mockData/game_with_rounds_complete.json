@@ -1,0 +1,159 @@
+{
+    "rounds": [
+        {
+            "_id": "5a41ce8e23c67aacdb33779a",
+            "turns": [
+                {
+                    "score": 987151,
+                    "text": "Everyone knows that I am the greatest politician and businessman. We will build the wall! Democrats will not be able to stop us! ",
+                    "user": "5a2c7a647ae8fb3758b74783",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                },
+                {
+                    "score": 104471,
+                    "text": "Loser democrats say they don’t want to build the wall. Instead they are being obstructionists. Very disappointing! Loser politicians.",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                }
+            ],
+            "words": [
+                "politician",
+                "wall"
+            ]
+        },
+        {
+            "_id": "5a5bf2ac11e61e2336fa1faf",
+            "turns": [
+                {
+                    "score": 991220,
+                    "text": "Everyone knows that I am the Batman. Yet all the fake news media wants to focus on is collusion with Russia and diet cokes. Sad!",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                },
+                {
+                    "score": 948767,
+                    "text": "When I become president. I will continue to bring back manufacturing jobs. After all, I am the Batman! And drink diet cokes!",
+                    "user": "5a2c7a647ae8fb3758b74783",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                }
+            ],
+            "words": [
+                "Diet Cokes",
+                "I am the Batman"
+            ]
+        },
+        {
+            "_id": "5a5bf3a211e61e2336fa1fb1",
+            "turns": [
+                {
+                    "score": 104408,
+                    "text": "Failing New York Times and oops.",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                },
+                {
+                    "score": 104443,
+                    "text": "Losers at the failing New York Times don’t know anything! Oops.",
+                    "user": "5a2c7a647ae8fb3758b74783",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                }
+            ],
+            "words": [
+                "New York Times",
+                "Oops"
+            ]
+        },
+        {
+            "_id": "5a5bf3f411e61e2336fa1fb2",
+            "turns": [
+                {
+                    "score": 104410,
+                    "text": "Siberia and fbi",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41ce8e23c67aacdb33779b"
+                },
+                {
+                    "score": 104409,
+                    "text": "Siberia and fbi",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a2c7a647ae8fb3758b74783"
+                }
+            ],
+            "words": [
+                "FBI",
+                "Siberia"
+            ]
+        },
+        {
+            "_id": "5a41cf0f23c67aacdb33779c",
+            "turns": [
+                {
+                    "score": 250500,
+                    "text": "Testing Testing Testing",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41cf0f23c67aacdb33779d"
+                },
+                {
+                    "score": 104423,
+                    "text": "Republicans are a bunch of losers! VERY HOSTILE!",
+                    "user": "5a2c7a647ae8fb3758b74783",
+                    "_id": "5a41cf0f23c67aacdb33779d"
+                }
+            ],
+            "words": [
+                "Hostile",
+                "Republicans"
+            ]
+        },
+        {
+            "_id": "5a5ba5333f8e747ca9a558ba",
+            "turns": [
+                {
+                    "score": 104411,
+                    "text": "Bill Clinton and mitt romney are complete losers!",
+                    "user": "5a2c7a647ae8fb3758b74783",
+                    "_id": "5a41cf0f23c67aacdb33779d"
+                },
+                {
+                    "score": 104410,
+                    "text": "Bill clinton and mitt romney!",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41cf0f23c67aacdb33779d"
+                }
+            ],
+            "words": [
+                "Bill Clinton",
+                "Mitt Romney"
+            ]
+        },
+        {
+            "_id": "5a5bdc983f181c1d011686ce",
+            "turns": [
+                {
+                    "score": 23434,
+                    "text": "Steve Bannon on a cats",
+                    "user": "5a2c798e7ae8fb3758b74782",
+                    "_id": "5a41cf0f23c67aacdb33779d"
+                },
+                {
+                    "score": 104412,
+                    "text": "Steve Bannon on a cats",
+                    "user": "5a2c7a647ae8fb3758b74783",
+                    "_id": "5a41cf0f23c67aacdb33779d"
+                }
+            ],
+            "words": [
+                "Steve Bannon on a",
+                "Cats"
+            ]
+        }
+    ],
+    "_id": "5a41ce8e23c67aacdb33779b",
+    "opponent": {
+        "_id": "5a2c7a647ae8fb3758b74783",
+        "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+        "firstName": "John",
+        "lastName": "Adeagbostein"
+    },
+    "creator": true
+}

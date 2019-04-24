@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="v6x-4i-bvi">
+                    <rect key="frame" x="103.5" y="46" width="273" height="388"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="MainLogo271" translatesAutoresizingMaskIntoConstraints="NO" id="swd-6B-MF5">
+                            <rect key="frame" x="0.0" y="-7" width="273" height="166"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="166" id="Gv5-Xa-dua"/>
+                            </constraints>
+                        </imageView>
+                    </subviews>
+                    <color key="backgroundColor" red="0.18823529410000001" green="0.1960784314" blue="0.40000000000000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="swd-6B-MF5" firstAttribute="leading" secondItem="v6x-4i-bvi" secondAttribute="leading" id="0fO-Yf-uIS"/>
+                        <constraint firstAttribute="trailing" secondItem="swd-6B-MF5" secondAttribute="trailing" id="1p3-sE-12U"/>
+                        <constraint firstItem="swd-6B-MF5" firstAttribute="top" secondItem="v6x-4i-bvi" secondAttribute="top" constant="-7" id="8hO-th-HT3"/>
+                        <constraint firstAttribute="width" constant="273" id="GYk-rR-2gy"/>
+                        <constraint firstAttribute="height" constant="388" id="UyX-YM-tiu"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.18823529411764706" green="0.19607843137254902" blue="0.40000000000000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="v6x-4i-bvi" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="8Uv-K5-fhq"/>
+                <constraint firstItem="v6x-4i-bvi" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="NMn-LC-ClB"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="MainLogo271" width="271" height="168"/>
+    </resources>
+</document>

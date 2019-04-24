@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">543598745271-2hh724hse1jt61ep7s1rujvn9jp9f0ns.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://talk-like-potus.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">543598745271</string>
+    <string name="google_api_key" translatable="false">AIzaSyCoXj--LripBy9-d-cgTSnXtSPkT9tqJgw</string>
+    <string name="google_app_id" translatable="false">1:543598745271:android:95a3cbba22638a80</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCoXj--LripBy9-d-cgTSnXtSPkT9tqJgw</string>
+    <string name="google_storage_bucket" translatable="false">talk-like-potus.appspot.com</string>
+    <string name="project_id" translatable="false">talk-like-potus</string>
+</resources>

@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK"
+    },
+    "response": {
+        "game": {
+            "rounds": [
+                {
+                    "_id": "5a348d92e7dd8a18400585e2",
+                    "turns": [],
+                    "words": [
+                        "dishonest",
+                        "@nytimes ‘New York Timesco’"
+                    ]
+                }
+            ],
+            "_id": "5a348d92e7dd8a18400585e3",
+            "opponent": {
+                "_id": "5a2c7a647ae8fb3758b74783",
+                "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+                "firstName": "John",
+                "lastName": "Adeagbostein"
+            }
+        }
+    }
+}

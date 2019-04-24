@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>543598745271-eabjaeertvds16kfp9h1mg5k2ji5fmut.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543598745271-eabjaeertvds16kfp9h1mg5k2ji5fmut</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTzIqk6x1lJvMGhWwP_hBQAfAYbUMmZZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543598745271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gydorunning.talkpresidential</string>
+	<key>PROJECT_ID</key>
+	<string>talk-like-potus</string>
+	<key>STORAGE_BUCKET</key>
+	<string>talk-like-potus.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543598745271:ios:4d71c41aed811aa6</string>
+	<key>DATABASE_URL</key>
+	<string>https://talk-like-potus.firebaseio.com</string>
+</dict>
+</plist>

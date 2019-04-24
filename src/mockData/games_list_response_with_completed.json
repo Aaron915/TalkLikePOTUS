@@ -1,0 +1,314 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK"
+    },
+    "response": {
+        "updatedAt": 1517971070979,
+        "pageLimit": 20,
+        "pageNumber": 3,
+        "games": [
+            {
+                "_id": "5a668a851e0799001a518529",
+                "updatedAt": 1516669573271,
+                "completed": false,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-01-23T01:06:13.271Z",
+                        "createdAt": "2018-01-23T01:06:13.271Z",
+                        "_id": "5a668a851e0799001a518528",
+                        "turns": [],
+                        "words": [
+                            "Cage match",
+                            "FBI"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d515796c17c0014e558e8",
+                    "profilePicture": "https://graph.facebook.com/100985950686286/picture?type=large",
+                    "firstName": "Susan",
+                    "lastName": "Changstein",
+                    "username": "Susan"
+                },
+                "creator": true
+            },
+            {
+                "_id": "5a5fd14726879a001a799c72",
+                "updatedAt": 1516232565153,
+                "completed": false,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-01-17T23:42:45.152Z",
+                        "createdAt": "2018-01-17T22:42:15.563Z",
+                        "_id": "5a5fd14726879a001a799c71",
+                        "turns": [
+                            {
+                                "updatedAt": "2018-01-17T23:42:45.152Z",
+                                "createdAt": "2018-01-17T23:42:45.152Z",
+                                "percent": 0.98095703125,
+                                "score": 964601,
+                                "text": "Obstrucionist Democrats say that my administration could not handle alien visitors. false! I am the best president since Lincoln. Sad!",
+                                "user": "5a5d2b49accd180014d2e8fa",
+                                "_id": "5a5fd14726879a001a799c72"
+                            }
+                        ],
+                        "words": [
+                            "Lincoln",
+                            "Alien Visitors"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d2b49accd180014d2e8fa",
+                    "profilePicture": "https://graph.facebook.com/10155926051384314/picture?type=large",
+                    "firstName": "Aaron",
+                    "lastName": "Williams",
+                    "username": "Aaron"
+                },
+                "creator": false
+            },
+            {
+                "_id": "5a5d6de596c17c0014e558fa",
+                "updatedAt": 1516072421579,
+                "completed": false,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-01-16T03:13:41.579Z",
+                        "createdAt": "2018-01-16T03:13:41.579Z",
+                        "_id": "5a5d6de596c17c0014e558f9",
+                        "turns": [],
+                        "words": [
+                            "Rocket Man",
+                            "Cheeseburgers in bed"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d515796c17c0014e558e8",
+                    "profilePicture": "https://graph.facebook.com/100985950686286/picture?type=large",
+                    "firstName": "Susan",
+                    "lastName": "Changstein",
+                    "username": "Susan"
+                },
+                "creator": false
+            },
+            {
+                "_id": "5a5d566a96c17c0014e558ef",
+                "updatedAt": 1516066410736,
+                "completed": false,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-01-16T01:33:30.736Z",
+                        "createdAt": "2018-01-16T01:33:30.736Z",
+                        "_id": "5a5d566a96c17c0014e558ee",
+                        "turns": [],
+                        "words": [
+                            "Casinos",
+                            "Los Angeles"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d515796c17c0014e558e8",
+                    "profilePicture": "https://graph.facebook.com/100985950686286/picture?type=large",
+                    "firstName": "Susan",
+                    "lastName": "Changstein",
+                    "username": "Susan"
+                },
+                "creator": false
+            },
+            {
+                "_id": "5a5d565296c17c0014e558ed",
+                "updatedAt": 1516066386090,
+                "completed": false,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-01-16T01:33:06.090Z",
+                        "createdAt": "2018-01-16T01:33:06.090Z",
+                        "_id": "5a5d565296c17c0014e558ec",
+                        "turns": [],
+                        "words": [
+                            "Oil",
+                            "Jared"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d515796c17c0014e558e8",
+                    "profilePicture": "https://graph.facebook.com/100985950686286/picture?type=large",
+                    "firstName": "Susan",
+                    "lastName": "Changstein",
+                    "username": "Susan"
+                },
+                "creator": false
+            },
+            {
+                "_id": "5a5d516096c17c0014e558ea",
+                "updatedAt": 1516065130376,
+                "completed": false,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-01-16T01:12:10.376Z",
+                        "createdAt": "2018-01-16T01:12:00.727Z",
+                        "_id": "5a5d516096c17c0014e558e9",
+                        "turns": [
+                            {
+                                "updatedAt": "2018-01-16T01:12:10.376Z",
+                                "createdAt": "2018-01-16T01:12:10.376Z",
+                                "percent": 0.022395214065909386,
+                                "score": 104407,
+                                "text": "Hole in one and casinos!",
+                                "user": "5a5d515796c17c0014e558e8",
+                                "_id": "5a5d516096c17c0014e558ea"
+                            }
+                        ],
+                        "words": [
+                            "Hole in one",
+                            "Casinos"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d515796c17c0014e558e8",
+                    "profilePicture": "https://graph.facebook.com/100985950686286/picture?type=large",
+                    "firstName": "Susan",
+                    "lastName": "Changstein",
+                    "username": "Susan"
+                },
+                "creator": false
+            },
+            {
+                "_id": "5a668a891e0799001a51852b",
+                "updatedAt": 1517970880844,
+                "completed": true,
+                "rounds": [
+                    {
+                        "updatedAt": "2018-02-07T02:30:24.119Z",
+                        "createdAt": "2018-01-23T01:06:17.025Z",
+                        "_id": "5a668a891e0799001a51852a",
+                        "turns": [
+                            {
+                                "updatedAt": "2018-02-07T02:20:56.932Z",
+                                "createdAt": "2018-02-07T02:20:56.932Z",
+                                "_id": "5a7a62883a9a35001a4677b1",
+                                "percent": 0.40751794556721316,
+                                "score": 255575,
+                                "text": "Really big disaster and abc",
+                                "user": "5a5d50ff96c17c0014e558e7"
+                            },
+                            {
+                                "updatedAt": "2018-02-07T02:30:24.120Z",
+                                "createdAt": "2018-02-07T02:30:24.120Z",
+                                "_id": "5a7a64c03a9a35001a4677b3",
+                                "percent": 0.7875618139314624,
+                                "score": 613143,
+                                "text": "Congress knows that fake news abc is a really big disaster. Sad!",
+                                "user": "5a5d515796c17c0014e558e8"
+                            }
+                        ],
+                        "words": [
+                            "ABC",
+                            "Really big disaster"
+                        ]
+                    },
+                    {
+                        "updatedAt": "2018-02-07T02:32:06.979Z",
+                        "createdAt": "2018-02-07T02:30:24.120Z",
+                        "_id": "5a7a64c03a9a35001a4677b4",
+                        "turns": [
+                            {
+                                "updatedAt": "2018-02-07T02:31:06.273Z",
+                                "createdAt": "2018-02-07T02:31:06.273Z",
+                                "_id": "5a7a64ea3a9a35001a4677b5",
+                                "percent": 0.8876758113617196,
+                                "score": 772104,
+                                "text": "Everyone knows that there is nothing to see here! No collusion between Russia and the White House.",
+                                "user": "5a5d515796c17c0014e558e8"
+                            },
+                            {
+                                "updatedAt": "2018-02-07T02:32:06.980Z",
+                                "createdAt": "2018-02-07T02:32:06.980Z",
+                                "_id": "5a7a65263a9a35001a4677b6",
+                                "percent": 0.08398406936245507,
+                                "score": 121334,
+                                "text": "Nothing to see here and white house",
+                                "user": "5a5d50ff96c17c0014e558e7"
+                            }
+                        ],
+                        "words": [
+                            "Nothing to see here",
+                            "White House"
+                        ]
+                    },
+                    {
+                        "updatedAt": "2018-02-07T02:33:12.974Z",
+                        "createdAt": "2018-02-07T02:32:06.980Z",
+                        "_id": "5a7a65263a9a35001a4677b7",
+                        "turns": [
+                            {
+                                "updatedAt": "2018-02-07T02:32:32.704Z",
+                                "createdAt": "2018-02-07T02:32:32.704Z",
+                                "_id": "5a7a65403a9a35001a4677b8",
+                                "percent": 0.06658777963887524,
+                                "score": 116570,
+                                "text": "Cage match and mittens",
+                                "user": "5a5d50ff96c17c0014e558e7"
+                            },
+                            {
+                                "updatedAt": "2018-02-07T02:33:12.974Z",
+                                "createdAt": "2018-02-07T02:33:12.974Z",
+                                "_id": "5a7a65683a9a35001a4677b9",
+                                "percent": 0.41573808549963637,
+                                "score": 260458,
+                                "text": "Cage match Russia Fake news! And Mittens! Sad!",
+                                "user": "5a5d515796c17c0014e558e8"
+                            }
+                        ],
+                        "words": [
+                            "Cage match",
+                            "Mittens"
+                        ]
+                    },
+                    {
+                        "updatedAt": "2018-02-07T02:34:40.843Z",
+                        "createdAt": "2018-02-07T02:33:12.974Z",
+                        "_id": "5a7a65683a9a35001a4677ba",
+                        "turns": [
+                            {
+                                "updatedAt": "2018-02-07T02:33:42.179Z",
+                                "createdAt": "2018-02-07T02:33:42.179Z",
+                                "_id": "5a7a65863a9a35001a4677bb",
+                                "percent": 0.6506904661405661,
+                                "score": 447394,
+                                "text": "Alien visitors and taco salad. Fake News Collusion. Fake News Russia.",
+                                "user": "5a5d515796c17c0014e558e8"
+                            },
+                            {
+                                "updatedAt": "2018-02-07T02:34:40.844Z",
+                                "createdAt": "2018-02-07T02:34:40.844Z",
+                                "_id": "5a7a65c03a9a35001a4677bc",
+                                "percent": 0.06780048280906821,
+                                "score": 116896,
+                                "text": "Alien visitors with taco salad",
+                                "user": "5a5d50ff96c17c0014e558e7"
+                            }
+                        ],
+                        "words": [
+                            "Taco Salad",
+                            "Alien Visitors"
+                        ]
+                    }
+                ],
+                "opponent": {
+                    "_id": "5a5d515796c17c0014e558e8",
+                    "profilePicture": "https://graph.facebook.com/100985950686286/picture?type=large",
+                    "firstName": "Susan",
+                    "lastName": "Changstein",
+                    "username": "Susan"
+                },
+                "creator": true
+            }
+        ]
+    }
+}

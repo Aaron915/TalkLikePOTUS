@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/node_modules/react-native-firebase/ios/RNFirebase/analytics/RNFirebaseAnalytics.m \
+  /Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/node_modules/react-native-firebase/ios/RNFirebase/analytics/RNFirebaseAnalytics.h \
+  /Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h \
+  ../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h \
+  /Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/node_modules/react-native-firebase/ios/../../../ios/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h \
+  ../../../ios/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h

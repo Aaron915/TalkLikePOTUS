@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543598745271",
+    "firebase_url": "https://talk-like-potus.firebaseio.com",
+    "project_id": "talk-like-potus",
+    "storage_bucket": "talk-like-potus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543598745271:android:95a3cbba22638a80",
+        "android_client_info": {
+          "package_name": "com.talkpresidential"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543598745271-2hh724hse1jt61ep7s1rujvn9jp9f0ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXj--LripBy9-d-cgTSnXtSPkT9tqJgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

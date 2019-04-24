@@ -1,0 +1,17 @@
+{
+    "_id": "5a2c798e7ae8fb3758b74782",
+    "pushNotificationId": "123444",
+    "updatedAt": "2017-12-10T00:02:26.881Z",
+    "createdAt": "2017-12-10T00:02:22.211Z",
+    "profilePicture": "[REDACTED]",
+    "firstName": "Susan",
+    "lastName": "Changstein",
+    "email": "[REDACTED]",
+    "games": [],
+    "__v": 0,
+    "username": "Susan",
+    "tokens": [],
+    "profiles": {
+        "facebook": "[REDACTED]"
+    }
+}

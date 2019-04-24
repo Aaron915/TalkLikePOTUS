@@ -1,0 +1,84 @@
+{
+  "layer_shapes" : {
+    "max_pooling1d_5_output" : {
+      "k" : 30,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "embedding_5_permute_conv1d_5_output" : {
+      "k" : 40,
+      "w" : 9,
+      "n" : 1,
+      "h" : 1
+    },
+    "max_pooling1d_5_permute_lstm_5_output" : {
+      "k" : 30,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "embedding_5_output" : {
+      "k" : 40,
+      "w" : 1,
+      "n" : 1,
+      "seq" : 9,
+      "h" : 1
+    },
+    "lstm_5_h_in" : {
+      "k" : 15,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "output1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "input1" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "seq" : 9,
+      "h" : 1
+    },
+    "lstm_5_c_out" : {
+      "k" : 15,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "lstm_5_c_in" : {
+      "k" : 15,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "dense_5_output" : {
+      "k" : 1,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "lstm_5_h_out" : {
+      "k" : 15,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    },
+    "conv1d_5__activation___output" : {
+      "k" : 30,
+      "w" : 7,
+      "n" : 1,
+      "h" : 1
+    },
+    "lstm_5_output" : {
+      "k" : 15,
+      "w" : 1,
+      "n" : 1,
+      "h" : 1
+    }
+  }
+}

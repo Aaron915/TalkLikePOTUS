@@ -1,0 +1,24 @@
+{
+    "rounds": [
+        {
+            "_id": "5a354841e7dd8a18400585e8",
+            "turns": [{
+                "_id": "fjksdla4384573478fdf",
+                "score": 456000,
+                "user": "5a2c7a647ae8fb3758b74783",
+                "text": "Comey is just a puppet for the dems, who want regulations. Sad!"
+            }],
+            "words": [
+                "Regulations",
+                "Comey"
+            ]
+        }
+    ],
+    "_id": "5a354841e7dd8a18400585e9",
+    "opponent": {
+        "_id": "5a2c7a647ae8fb3758b74783",
+        "profilePicture": "https://graph.facebook.com/120937442026979/picture?type=large",
+        "firstName": "John",
+        "lastName": "Adeagbostein"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "error": {
+      "message": "Unknown path components: /frie",
+      "type": "OAuthException",
+      "code": 2500,
+      "fbtrace_id": "FE3dIILj0Ka"
+    }
+  }

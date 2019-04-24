@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-android-sdk-4.28.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.28.0/res" />
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.28.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.28.0/2219e91fa897b15958fa52d4d2b261a454bf4cd9/facebook-android-sdk-4.28.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

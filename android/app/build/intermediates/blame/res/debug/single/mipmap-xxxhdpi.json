@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_foreground.png",
+        "source": "/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/aaron/TalkPresidential/engineering/mobile/talk-presidential-react/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

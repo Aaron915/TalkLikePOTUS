@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "code": 200,
+        "status": "OK"
+    },
+    "response": {
+        "Bearer": "[REDACTED]",
+        "user": {
+            "_id": "5a14eccfcf44b83d2670a2bc",
+            "updatedAt": "2017-11-22T03:19:43.654Z",
+            "createdAt": "2017-11-22T03:19:43.654Z",
+            "profilePicture": "[REDACTED]",
+            "firstName": "[REDACTED]",
+            "lastName": "[REDACTED]",
+            "email": "[REDACTED]",
+            "__v": 0,
+            "games": [],
+            "tokens": [],
+            "profiles": {
+                "facebook": "[REDACTED]"
+            }
+        }
+    }
+}
